@@ -1,1 +1,17 @@
+# Introduction to the Research Question
+Today, there is a tremendous mismatch between the available housing stock in the United States and the housing options that people need. The auto-centric single family housing development model is failing to serve the housing needs of residents in urban areas. In recent years, California legislation is beginning to take steps in the right direction by passing ordinances that allow the missing middle housing to exist on parcels that have been zoned specifically for single structures for decades. In 2017, SB 1069 and AB 2299 authorized cities to build Accessory Dwelling Units (ADUs) in single-family residential zones. Further, the bill also replaced any city’s existing ADU building, parking and use standards and imposed ADU standards on cities that did not have existing ones.
 
+More recently, in September 2021, SB 9 and SB 10 were signed into law by Governor Gavin Newsom. SB 9 allows owners to build duplexes on lots currently zoned as single-family housing. It also offers the option to split the lots into two parcels. Essentially, it would allow the construction of up to 4 housing units on what is currently zoned for 1 unit. SB 10 allows, but does not require, cities to zone a parcel for up to 10 residential units if it’s located in a “transit-rich area”. California defines these areas as any parcel located on a fixed-route bus line that meets service interval requirements, or within a half mile of a major transit stop. Unzoning under this bill would allow local jurisdictions to bypass the California Environmental Quality Act (CEQA), allowing development to begin more quickly.
+
+Our research question is: ***How can recent California legislation be implemented to create more housing stock and homeownership opportunities for low and moderate income residents of Los Angeles County?***
+
+# Why is this Important?
+
+# Spatial Scope
+The scope of our research project will encompass all of Los Angeles County. The spatial scope of this project matters because Los Angeles County’s already critical housing crisis has reached a frightening peak. These new California legislations however, can provide a unique opportunity for the county to regain control of the ongoing housing crisis. It’s important to note that different geographic locations require different solutions to the housing crisis. Though these legislations are a step in the right direction, cities may need to fine tune their zoning codes further to make full use of these new laws. Los Angeles County is a big enough geographic location to see the varying housing needs. 
+
+# Data Sources
+Our first primary data source will include all permit databases from cities across Los Angeles County. These databases will provide us with information about permit applications for ADUs and smallplexes. The permit database for the City of Los Angeles can be found [here](https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf/data). As we move forward, we will continue adding permit databases from other cities in Los Angeles County. 
+
+Our second primary data source will highlight median income data in Los Angeles County broken down into census tracts. This data source will provide us with information about areas in Los Angeles County that may need more access to affordable housing than others. Spatial data on median income can be found [here](
+https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,140|05000US06037&primary_geo_id=05000US06037). 
