@@ -15,3 +15,7 @@ Our first primary data source will include all permit databases from cities acro
 
 Our second primary data source will highlight median income data in Los Angeles County broken down into census tracts. This data source will provide us with information about areas in Los Angeles County that may need more access to affordable housing than others. Spatial data on median income can be found [here](
 https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,140|05000US06037&primary_geo_id=05000US06037). 
+
+# Methodology
+
+# Conclusion 
