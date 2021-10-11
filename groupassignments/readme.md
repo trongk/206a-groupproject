@@ -16,6 +16,8 @@ Our first primary data source will include all permit databases from cities acro
 Our second primary data source will highlight median income data in Los Angeles County broken down into census tracts. This data source will provide us with information about areas in Los Angeles County that may need more access to affordable housing than others. Spatial data on median income can be found [here](
 https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,140|05000US06037&primary_geo_id=05000US06037). 
 
+Our third primary data source will highlight existing zoning conditions in Los Angeles County. This data source will highlight areas in which ADUs and smallplexes are permitted to be constructed. The zoning information for the City of Los Angeles can be found [here](https://geohub.lacity.org/datasets/zoning/explore?location=34.055956%2C-118.234564%2C12.90). As we move forward, we will continue to find and add zoning information from other cities in Los Angeles County.  
+
 # Methodology
 
 # Conclusion 
