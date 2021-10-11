@@ -30,11 +30,11 @@ To research the feasibility of these new bills we want to identify and visualize
 2. *Identify Jurisdictions in Need of Affordable Housing:* Next we will identify the jurisdictions that are most in need of affordable housing. One data source we can use to identify need is the median household income of census tracts within each jurisdiction. We could also use RHNA allocation data. However, the Cycle 6 geospatial data has yet to be released because this cycle is not yet finalized, and Cycle 5 data is somewhat obsolete. Thus, median household incomes may be a better indicator to identify areas of need. We can also visualize this data through a map. 
 3. *Cross Check ADU Permit Data:* Once we identify the location of lots that these new bills can apply to and areas of need, we must make sure that these lots do not already have an ADU on them. If they have an ADU and have reached their max number of additional dwellings, these bills will no longer apply. Thus, we will use our ADU permit data to cross reference our applicable lots and disqualify lots with overlaps. 
 
-Once we have located the true potential locations in which these bills can be used to build new ADUs, we will analyze our findings. These analysis can include, but are not limited to:
+Once we have located the true potential locations in which these bills could be used to build new affordable ADUs, we will analyze our findings. This analysis can include, but is not limited to:
 1. Mapping locations to visualize our data 
 2. Tallying the number of potential ADUs developments within each jurisdiction to analyze if these ADUs can sufficiently increase the number of affordable housing units 
-3. Cross referencing the jurisdictional data with the jurisdictions we identified as areas of need to see if the potential ADUs would be concentrated where they are needed most.
-4. Cross referencing the locations with the areas that are currently seeing the most affordable housing development to see if total development would be concentrated in any particular jurisdiction. 
+3. Cross referencing potential ADU locations with out identified areas of need to see if they would help ease the housing crisis in neighborhoods that need affordable housing the most. 
+4. Cross referencing potential ADU locations with the jurisdictions that are currently seeing the most affordable housing development to see if total development would be concentrated in any particular jurisdiction or if these ADUs could potentially help disperse development across the county. 
 
 
 # Conclusion 
