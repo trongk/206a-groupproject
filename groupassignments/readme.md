@@ -39,4 +39,5 @@ Once we have located the true potential locations in which these bills can be us
 
 # Conclusion 
 
-In our research, we hope to gain insight into if SB8, SB9, and SB10 could potentially make a tangible impact on the supply of affordable housing within Los Angeles County. Many jurisdictions with the highest real estate prices are also the jurisdictions with the most single family zoned lots and the least affordable housing. Thus, we hope to find that these bills can actually help produce a new form of affordable housing in the jurisdictions that need the most affordable housing development. 
+In our research, we hope to gain insight into if SB8, SB9, and SB10 could potentially make a tangible impact on the supply of affordable housing within Los Angeles County. Many jurisdictions with the highest real estate prices are also the jurisdictions with the most single family zoned lots and the least affordable housing available. Thus, we hope to find that these bills can actually help produce a new form of affordable housing in the jurisdictions that need the most affordable housing development. It is also no secret that many NIMBY neighborhoods have blocked the development of affordable multifamily housing within their jurisdiction. We hope to see a good concentration of potential affordable ADUs in these neighborhoods. 
+
