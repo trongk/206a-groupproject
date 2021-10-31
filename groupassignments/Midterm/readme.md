@@ -1,4 +1,4 @@
-# Exploring the Potential Impact of SB9 and SB10 on Affordable Housing in the City of Los Angeles
+# Proposal: Exploring the Potential Impact of SB9 and SB10 on Affordable Housing in the City of Los Angeles
 
 ## Introduction to the Research Question
 Today, there is a tremendous mismatch between the available housing stock in the United States and the housing options that people need. The auto-centric single family housing development model is failing to serve the housing needs of residents in urban areas. In recent years, California legislation is beginning to take steps in the right direction by passing ordinances that allow the missing middle housing to exist on parcels that have been zoned specifically for single structures for decades. In 2017, SB 1069 and AB 2299 authorized cities to build Accessory Dwelling Units (ADUs) in single-family residential zones. Further, the bill also replaced any city’s existing ADU building, parking and use standards and imposed ADU standards on cities that did not have existing ones.
