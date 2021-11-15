@@ -1,1 +1,2 @@
+Trong worked on the Smallplex Data notebook while Sharon worked on the Single Family Zones notebook. Trong was amazing and wrote the code for the la time neighborhood overlay and Sharon was able to copy the code and change it as needed for the Single Family notebook (Sharon wrote this and is very grateful). Each notebook is a cleaned up version of the midterm notebooks with the additional neighborhood overlay, and each notebook also has a loop and a function. 
 
